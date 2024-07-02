@@ -1,3 +1,8 @@
+h1 {
+  background: #96ffc4;
+  color: #21ff81;
+}
+
 div {
   display: flex;
   align-content: center;
