@@ -14,6 +14,7 @@ div {
   display: flex;
   align-content: center;
   flex-direction: column;
+  align-content: center;
   padding: 5px;
   background: #cdff75;
   border-radius: 5px;
