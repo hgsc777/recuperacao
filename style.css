@@ -1,6 +1,6 @@
 h1 {
   background: #96ffc4;
-  color: #21ff81;
+  color: white;
   padding: 10px;
 }
 
@@ -9,7 +9,7 @@ div {
   align-content: center;
   flex-direction: column;
   padding: 5px;
-  background: #de1;
+  background: #cdff75;
   border-radius: 5px;
 }
 
